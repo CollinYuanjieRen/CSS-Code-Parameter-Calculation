@@ -11,4 +11,6 @@ So it looks like ```compute_css_code_parameters(H_X,H_Z,True,True)```.
 
 The **output** of ```compute_css_code_parameters``` is "n, r_X (rank of H_X), r_Z (rank of H_Z), k, d_X (distance of H_X), d_Z (distance of H_Z)". 
 
-So $$k=n-r_X-r_Z$$ and $$d$$ is optimized over supports.
+So $$k=n-r_X-r_Z$$ and $$d$$ is optimized over supports. 
+
+Let me know if there's any bug or error.
