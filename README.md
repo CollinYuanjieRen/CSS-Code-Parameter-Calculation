@@ -1,7 +1,7 @@
 # CSS_Code_Parameter_Calculation
 Concise python code to calculate [[n,k,d]].
 
-A couple of **examples** have been put there, like "twoDtori_code.py". 
+A couple of **examples**, including "twoDtori_code.py" the 2D toric code, have been provided. 
 
 Simply download and run those examples, which will call the **subroutine** of "CSS_code_parameters.py". 
 
