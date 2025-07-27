@@ -5,7 +5,7 @@ A couple of **examples**, including "twoDtori_code.py" the 2D toric code, have b
 
 Simply download and run those examples, which will call the **subroutine** of "CSS_code_parameters.py". 
 
-The **input** of the parameter calculator is imply the two check matrices $H_X$ and $H_Z$ with $\mathbb{F}_2$ coefficients and two switches to calculate the code distance $d_X$ and $d_Z$. 
+The **input** of the parameter calculator is imply the two check matrices $H_X$ and $H_Z$ with $\mathbb{F}_2$ coefficients and two switches ON/OFF dictating if we calculate the code distance $d_X$ and $d_Z$. 
 
 So it looks like ```compute_css_code_parameters(H_X,H_Z,True,True)```. 
 
